@@ -16,5 +16,10 @@ namespace Belajar_CRUD
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
